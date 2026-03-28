@@ -221,7 +221,7 @@ img {
 
 .titulo-sessao span {
   color: #c5a335;
-  /* Dourado para destaque */
+  
 }
 
 .bg-navy {
@@ -236,7 +236,6 @@ img {
   background-color: #D4AF37 !important;
 }
 
-/* Efeito suave nos links */
 footer a:hover {
   color: #D4AF37 !important;
   transition: 0.3s;
